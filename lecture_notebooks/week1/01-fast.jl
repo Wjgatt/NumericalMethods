@@ -1,8 +1,22 @@
 ### A Pluto.jl notebook ###
-# v0.12.12
+# v0.14.7
 
 using Markdown
 using InteractiveUtils
+
+# ╔═╡ fef98014-51fc-11eb-15ad-d17044bcab51
+# let's create a package environment
+begin
+	import Pkg
+	Pkg.activate(mktempdir())
+end
+
+# ╔═╡ 488c605c-51fd-11eb-1d04-61c8684822e7
+# and add all packages we need to it
+begin
+	Pkg.add(["BenchmarkTools", "PyCall", "Conda", "Plots","RCall", "DataFrames"])
+	using BenchmarkTools
+end
 
 # ╔═╡ d0cb1cea-51fa-11eb-3097-f1b352770dbf
 md"
@@ -42,20 +56,6 @@ md"
 
 Let's use the BenchmarkTools.jl package for this.
 "
-
-# ╔═╡ fef98014-51fc-11eb-15ad-d17044bcab51
-# let's create a package environment
-begin
-	import Pkg
-	Pkg.activate(mktempdir())
-end
-
-# ╔═╡ 488c605c-51fd-11eb-1d04-61c8684822e7
-# and add all packages we need to it
-begin
-	Pkg.add(["BenchmarkTools", "PyCall", "Conda", "Plots","RCall", "DataFrames"])
-	using BenchmarkTools
-end
 
 # ╔═╡ 91c95162-51fd-11eb-0eac-e1df447f55dd
 md"
@@ -299,7 +299,7 @@ end
 
 # ╔═╡ Cell order:
 # ╟─d0cb1cea-51fa-11eb-3097-f1b352770dbf
-# ╟─794c7764-51fc-11eb-2325-91421e8833e3
+# ╠═794c7764-51fc-11eb-2325-91421e8833e3
 # ╟─8a1db652-51fc-11eb-191c-af8d4141c316
 # ╠═9be2d85c-51fc-11eb-1770-e3ee78651c62
 # ╟─ee1de4d8-51fc-11eb-1d5f-119571ab06a5
@@ -330,7 +330,7 @@ end
 # ╟─fa241eae-55e0-11eb-3bb4-f53733f79ac2
 # ╟─65ed46ec-55e1-11eb-31f7-89d53b044287
 # ╠═b067eda8-55e1-11eb-0f71-f9d8ae131d90
-# ╠═d672614a-55e1-11eb-078e-53c6eb9b4c30
+# ╟─d672614a-55e1-11eb-078e-53c6eb9b4c30
 # ╟─6b12b1fa-55e3-11eb-120f-a9ed49cb857c
 # ╠═968cb4b6-55e3-11eb-1de9-7def68cbc3f6
 # ╠═7d631336-55e3-11eb-2b77-95ef2b170eb6

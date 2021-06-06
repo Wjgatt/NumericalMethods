@@ -1,0 +1,1176 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.5)  6 JUN 2021 08:07
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex
+(c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex
+LaTeX2e <2020-02-02>
+L3 programming layer <2020-02-03>
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:1: Undefined control sequence.
+l.1 \definecolor
+                {darkred}{rgb}{.7,0,0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:1: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \definecolor{d
+                  arkred}{rgb}{.7,0,0}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:2: Undefined control sequence.
+l.2 \definecolor
+                {darkgreen}{rgb}{0,.6,0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:3: Undefined control sequence.
+l.3 \definecolor
+                {red}{rgb}{.98,0,0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:4: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...arkred,bookmarksnumbered,plainpages=false]{
+                                                  hyperref}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--6
+[]
+ []
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:7: Undefined control sequence.
+<argument> \undefinedpagestyle 
+                               
+l.7 \pagestyle{fancyplain}
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:8: Undefined control sequence.
+l.8 \fancyhf
+            {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:9: Undefined control sequence.
+l.9 \lhead
+          { \fancyplain{}{Computational Economics for PhDs} }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:9: Undefined control sequence.
+l.9 \lhead{ \fancyplain
+                       {}{Computational Economics for PhDs} }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:9: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \lhead{ \fancyplain{}{C
+                           omputational Economics for PhDs} }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no s in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:11: Undefined control sequence.
+l.11 \rhead
+           { \fancyplain{}{\today} }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:11: Undefined control sequence.
+l.11 \rhead{ \fancyplain
+                        {}{\today} }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:11: Undefined control sequence.
+l.11 \rhead{ \fancyplain{}{\today
+                                 } }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:13: Undefined control sequence.
+l.13 \fancyfoot
+               [RO, LE] {page \thepage\ of \pageref{LastPage} }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:13: Undefined control sequence.
+l.13 \fancyfoot[RO, LE] {page \thepage
+                                      \ of \pageref{LastPage} }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:13: Undefined control sequence.
+<write> ... Reference `LastPage' on page \thepage 
+                                                  \space undefined\on@line .
+l.13 ... LE] {page \thepage\ of \pageref{LastPage}
+                                                   }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `LastPage' on page  undefined on input line 13.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--15
+[]
+ []
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 9--15
+[]
+ []
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:17: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \usepackage{
+                 listings}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:18: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \usepackage{
+                 caption}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:19: Undefined control sequence.
+l.19 \DeclareCaptionFont
+                        {white}{\color{white}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:19: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \DeclareCaptionFont{w
+                          hite}{\color{white}}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:19: Undefined control sequence.
+l.19 \DeclareCaptionFont{white}{\color
+                                      {white}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:20: Undefined control sequence.
+l.20 \DeclareCaptionFormat
+                          {listing}{\colorbox{gray}{\parbox{\textwidth}{#1#2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:20: Undefined control sequence.
+l.20 \DeclareCaptionFormat{listing}{\colorbox
+                                             {gray}{\parbox{\textwidth}{#1#2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no y in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:20: You can't use `macro parameter character #' in internal vertical mode.
+<argument> \hsize \@tempdima \@parboxrestore ##
+                                               1##2##3\@@par 
+l.20 ...colorbox{gray}{\parbox{\textwidth}{#1#2#3}
+                                                  }}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no 1 in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:20: You can't use `macro parameter character #' in horizontal mode.
+<argument> \hsize \@tempdima \@parboxrestore ##1##
+                                                  2##3\@@par 
+l.20 ...colorbox{gray}{\parbox{\textwidth}{#1#2#3}
+                                                  }}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no 2 in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:20: You can't use `macro parameter character #' in horizontal mode.
+<argument> ... \@tempdima \@parboxrestore ##1##2##
+                                                  3\@@par 
+l.20 ...colorbox{gray}{\parbox{\textwidth}{#1#2#3}
+                                                  }}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no 3 in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 20.
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:21: Undefined control sequence.
+l.21 \captionsetup
+                  [lstlisting]{format=listing,labelfont=white,textfont=white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:22: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \usepackage{
+                 verbatim} % used to display code
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:23: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \usepackage{
+                 fancyvrb}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:24: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \usepackage{
+                 acronym}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:25: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \usepackage{
+                 amsthm}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:26: Undefined control sequence.
+l.26 \VerbatimFootnotes
+                        % Required, otherwise verbatim does not work in foot...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 19--27
+[]
+ []
+
+
+Overfull \hbox (8191.99998pt too wide) in paragraph at lines 19--27
+[]$
+ []
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:30: Undefined control sequence.
+l.30 \definecolor
+                 {OliveGreen}{cmyk}{0.64,0,0.95,0.40}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:30: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \definecolor{O
+                   liveGreen}{cmyk}{0.64,0,0.95,0.40}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:31: Undefined control sequence.
+l.31 \definecolor
+                 {CadetBlue}{cmyk}{0.62,0.57,0.23,0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:32: Undefined control sequence.
+l.32 \definecolor
+                 {lightlightgray}{gray}{0.93}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 30--33
+[]
+ []
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:36: Undefined control sequence.
+l.36 \lstset
+            {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:38: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 b
+      asicstyle=\ttfamily,                   % Code font, Examples: \footnot...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:39: Undefined control sequence.
+l.39 keywordstyle=\color
+                        {OliveGreen},        % Keywords font ('*' = uppercase)
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:40: Undefined control sequence.
+l.40 commentstyle=\color
+                        {gray},              % Comments font
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:42: Undefined control sequence.
+l.42 numberstyle=\tiny
+                      ,                      % Line-numbers fonts
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:45: Undefined control sequence.
+l.45 backgroundcolor=\color
+                           {lightlightgray}, % Choose background color
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:54: Missing $ inserted.
+<inserted text> 
+                $
+l.54 morekeywords={_
+                    _global__, __device__},  % CUDA specific keywords
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:54: Missing { inserted.
+<to be read again> 
+                   _
+l.54 morekeywords={__
+                     global__, __device__},  % CUDA specific keywords
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:54: Missing { inserted.
+<to be read again> 
+                   _
+l.54 morekeywords={__global__
+                             , __device__},  % CUDA specific keywords
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:54: Double subscript.
+l.54 morekeywords={__global__, _
+                                _device__},  % CUDA specific keywords
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:54: Missing { inserted.
+<to be read again> 
+                   _
+l.54 morekeywords={__global__, __
+                                 device__},  % CUDA specific keywords
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:54: Missing { inserted.
+<to be read again> 
+                   _
+l.54 morekeywords={__global__, __device__
+                                         },  % CUDA specific keywords
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:54: Missing { inserted.
+<to be read again> 
+                   }
+l.54 morekeywords={__global__, __device__}
+                                          ,  % CUDA specific keywords
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:56: Missing $ inserted.
+<inserted text> 
+                $
+l.56 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:56: Missing } inserted.
+<inserted text> 
+                }
+l.56 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:56: Missing } inserted.
+<inserted text> 
+                }
+l.56 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:56: Missing } inserted.
+<inserted text> 
+                }
+l.56 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (25.24995pt too wide) in paragraph at lines 38--56
+[]\OT1/cmtt/m/n/10 ,
+ []
+
+
+Overfull \hbox (125.9989pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 keywordstyle=OliveGreen,
+ []
+
+
+Overfull \hbox (94.49918pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 commentstyle=gray,
+ []
+
+
+Overfull \hbox (68.2494pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 numbers=left,
+ []
+
+
+Overfull \hbox (68.2494pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 numberstyle=,
+ []
+
+
+Overfull \hbox (68.2494pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 stepnumber=1,
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 numbersep=5pt,
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 backgroundcolor=lightlightgray,
+ []
+
+
+Overfull \hbox (57.7495pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 frame=none,
+ []
+
+
+Overfull \hbox (52.49954pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 tabsize=2,
+ []
+
+
+Overfull \hbox (68.2494pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 captionpos=t,
+ []
+
+
+Overfull \hbox (83.99927pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 breaklines=true,
+ []
+
+
+Overfull \hbox (125.9989pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 breakatwhitespace=false,
+ []
+
+
+Overfull \hbox (89.24922pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 showspaces=false,
+ []
+
+
+Overfull \hbox (78.74931pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 showtabs=false,
+ []
+
+
+Overfull \hbox (89.24922pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 columns=flexible,
+ []
+
+
+Overfull \hbox (117.5892pt too wide) in paragraph at lines 38--56
+\OT1/cmtt/m/n/10 morekeywords=$[]$ 
+ []
+
+(c:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count167
+\l__pdf_internal_box=\box45
+) (c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.aux)
+\openout1 = `syllabus.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:58: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 \begin{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:60: Undefined control sequence.
+l.60 {\Large
+             \textsc{Computational Economics for PhD Students}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:72: Undefined control sequence.
+l.72 \textbf{Email:} &  \href
+                             {mailto:florian.oswald@sciencespo.fr}{florian.o...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:81: Undefined control sequence.
+l.81 \noindent\textbf{Course Page:} \url
+                                        {https://floswald.github.io/Numerica...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:87: Undefined control sequence.
+l.87 ...ur behalf. In the words of the great \href
+                                                  {https://www.econometricso...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:89: LaTeX Error: Environment quote undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 \begin{quote}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:93: LaTeX Error: \begin{document} ended by \end{quote}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 \end{quote}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:135: Undefined control sequence.
+l.135 ...d resources on the course website at \url
+                                                  {https://floswald.github.i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:135: You can't use `macro parameter character #' in horizontal mode.
+l.135 ...s://floswald.github.io/NumericalMethods/#
+                                                  term_project}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:135: Missing $ inserted.
+<inserted text> 
+                $
+l.135 ...loswald.github.io/NumericalMethods/#term_
+                                                  project}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:135: Extra }, or forgotten $.
+l.135 ...github.io/NumericalMethods/#term_project}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:136: Missing $ inserted.
+<inserted text> 
+                $
+l.136 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:140: Undefined control sequence.
+l.140 ...zet in M1. Check out his material at \url
+                                                  {https://cms27.github.io/t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:142: Undefined control sequence.
+l.142 ...the latest stable julia release from \url
+                                                  {https://julialang.org}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:144: Undefined control sequence.
+l.144 ...now what version control is. Whatch \href
+                                                  {https://git-scm.com/video...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:150: Undefined control sequence.
+l.150 ...ive Course Schedule:} Please consult \url
+                                                  {https://floswald.github.i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:150: You can't use `macro parameter character #' in horizontal mode.
+l.150 ...s://floswald.github.io/NumericalMethods/#
+                                                  course_schedule}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:150: Missing $ inserted.
+<inserted text> 
+                $
+l.150 ...swald.github.io/NumericalMethods/#course_
+                                                  schedule}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:150: Extra }, or forgotten $.
+l.150 ...hub.io/NumericalMethods/#course_schedule}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:151: Missing $ inserted.
+<inserted text> 
+                $
+l.151 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:158: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.tex:158: Undefined control sequence.
+\@oddfoot ->\reset@font \hfil \thepage 
+                                       \hfil 
+l.158 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.aux) )
+(\end occurred inside a group at level 4)
+
+### simple group (level 4) entered at line 150 ({)
+### simple group (level 3) entered at line 135 ({)
+### simple group (level 2) entered at line 54 ({)
+### simple group (level 1) entered at line 36 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 180 strings out of 481248
+ 4947 string characters out of 5922089
+ 245107 words of memory out of 5000000
+ 15524 multiletter control sequences out of 15000+600000
+ 533461 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,8n,19p,462b,419s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on c:/Users/William/Dropbox/Code/Julia/NumericalMethods/website/assets/tex/syllabus.pdf (1 page, 106803 bytes).
+PDF statistics:
+ 40 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
